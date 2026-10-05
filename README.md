@@ -8,12 +8,12 @@ Welcome to the **HTML & CSS** repository! This repository contains my coursework
 
 | File / Component | Type | Description |
 | :--- | :--- | :--- |
-| **[`index.html`](index.html)** | Project | Main Student Profile page showcasing personal introduction, photo, and skills list. |
-| **[`style.css`](style.css)** | Stylesheet | External stylesheet for `index.html` (typography, colors, line spacing, list styles). |
-| **[`profile.jpg`](profile.jpg)** | Asset | Profile picture used in `index.html`. |
-| **[`Task1.html`](Task1.html)** | Assignment | Demonstrates the 3 methods of adding CSS: **Inline**, **Internal** (`<style>`), and **External**. |
-| **[`task1.css`](task1.css)** | Stylesheet | External styles for `Task1.html` (`body` background and `.programme` styling). |
-| **[`Task2.html`](Task2.html)** | Assignment | Demonstrates CSS selectors (**Element**, **Class** `.second`, and **ID** `#third`) with box sizing. |
+| **[`index.html`](Week5-task/index.html)** | Project | Main Student Profile page showcasing personal introduction, photo, and skills list. |
+| **[`style.css`](Week5-task/style.css)** | Stylesheet | External stylesheet for `index.html` (typography, colors, line spacing, list styles). |
+| **[`profile.jpg`](Week5-task/profile.jpg)** | Asset | Profile picture used in `index.html`. |
+| **[`Task1.html`](Week5-task/Task1.html)** | Assignment | Demonstrates the 3 methods of adding CSS: **Inline**, **Internal** (`<style>`), and **External**. |
+| **[`task1.css`](Week5-task/task1.css)** | Stylesheet | External styles for `Task1.html` (`body` background and `.programme` styling). |
+| **[`Task2.html`](Week5-task/Task2.html)** | Assignment | Demonstrates CSS selectors (**Element**, **Class** `.second`, and **ID** `#third`) with box sizing. |
 | **[`Classwork.html`](Classwork.html)** | Classwork | Practice with class (`.Student`) and ID (`#main`) selectors and styling headings. |
 | **[`classwork.css`](classwork.css)** | Stylesheet | Stylesheet linked to `Classwork.html`. |
 | **[`Day1.html`](Day1.html)** | Lesson | Introductory HTML covering headings (`h1`–`h6`), lists (`ul`, `ol`, `dl`), tables, buttons, links, and YouTube `<iframe>`. |
