@@ -1,0 +1,30 @@
+/* h1{
+    color:rgb(233, 44, 138);
+}
+
+.font1{
+    color: rgb(227, 33, 217);
+    font-size: xx-large;
+    background-color: rgb(233, 183, 109);
+}
+p{
+   line-height: 2.5;
+   color: blue;
+   background-color: aqua;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bolder;
+text-align: justify;
+} */
+
+div {
+   border: 2px solid rgb(226, 28, 87);
+   border-top: 2px solid rgb(226, 28, 87);
+   padding: 20px;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin: 20px;
+   background-color: rgb(109, 208, 233);
+}
+div.second{
+border-color: blue;
+}

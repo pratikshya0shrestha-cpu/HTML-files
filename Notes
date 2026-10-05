@@ -1,0 +1,17 @@
+CSS Syntax
+selector{
+    property: value;
+}
+Example:
+p{
+    color: blue;
+    font-size : 18px;
+}
+
+selector-> what is style
+property-> what is aspect to change
+value-> how it should look
+
+You can declare same class name in multiple elements/tags.
+
+content -> the actual text or image

@@ -1,0 +1,23 @@
+/* Set a font family for the page */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Change heading color and size & Center the heading */
+h1 {
+    color: blue;
+    font-size: 32px;
+    text-align: center;
+}
+
+/* Change paragraph line-height */
+p {
+    line-height: 1.8;
+    font-size: 16px;
+}
+
+/* Use a class to style the skills list */
+.skills-list {
+    color: green;
+    font-size: 18px;
+}
