@@ -23,7 +23,7 @@ Welcome to the **HTML & CSS** repository! This repository contains my coursework
 
 ---
 
-## 🎯 Key Learning Concepts
+##  Key Learning Concepts
 
 1. **HTML Essentials**:
    - Semantic tags, document structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
@@ -39,7 +39,7 @@ Welcome to the **HTML & CSS** repository! This repository contains my coursework
 
 ---
 
-## 🚀 How to View
+##  How to View
 
 You can open and preview any `.html` file directly in any modern web browser (Google Chrome, Firefox, Safari, Edge):
 
@@ -48,7 +48,7 @@ You can open and preview any `.html` file directly in any modern web browser (Go
 
 ---
 
-## 👤 Author
+##  Author
 
 - **Name**: Pratikshya Shrestha
 - **Degree**: BSc (Hons) Software Engineering
