@@ -21,3 +21,47 @@ p {
     color: green;
     font-size: 18px;
 }
+
+p::before{
+    content:"";
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://www.w3schools.com/css/pic_trulli.asp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:10px;
+    vertical-align: middle;
+}
+
+.photo{
+    position: relative;
+    left: -40px;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    background-image: url('pic_trulli.asp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:10px;
+    vertical-align: middle;
+    z-index: 1;
+    bottom:15px;
+}
+.photo figcaption{
+    color: aqua;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.photo figcaption::before{
+    content:"";
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://www.w3schools.com/css/pic_trulli.asp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:10px;
+    vertical-align: middle;
+}
